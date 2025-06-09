@@ -14,3 +14,5 @@ The codes are made by using Arduino IDE, with following libraries being used:
 - MFRC522-spi-i2c-uart-async
 - U8g2
 - esp32cam
+
+Other files include the demo footage and application of the project
